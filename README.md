@@ -43,9 +43,9 @@ images or output sizes, you might need some hyperparameter tuning (especially
 
 These were the input images used:
 
-![input-content](results/test2.jpg)
+![input-content](results/first/test2.jpg)
 
-![input-style](results/blotchy_0036.jpg)
+![input-style](results/first/blotchy_0036.jpg)
 
 ## Example 2
 
@@ -54,9 +54,9 @@ These were the input images used:
 
 These were the input images used:
 
-![input-content](results/test3.jpg)
+![input-content](results/third/test3.jpg)
 
-![input-style](results/striped_0082.jpg)
+![input-style](results/third/striped_0082.jpg)
 
 ## Example 3
 
@@ -65,9 +65,9 @@ These were the input images used:
 
 These were the input images used:
 
-![input-content](results/test5.jpg)
+![input-content](results/fourth/test5.jpg)
 
-![input-style](results/blotchy_0036.jpg)
+![input-style](results/fourth/blotchy_0036.jpg)
 
 ## Example 4
 
@@ -76,9 +76,9 @@ These were the input images used:
 
 These were the input images used:
 
-![input-content](results/test6.jpg)
+![input-content](results/second/test6.jpg)
 
-![input-style](results/marbled_0190.jpg)
+![input-style](results/second/marbled_0190.jpg)
 
 
 ## Acknowledgement
